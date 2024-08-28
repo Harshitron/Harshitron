@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Harshit Sachdeva</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-- 🌱 I’m currently learning **DSA in C++**
+- 🌱 I’m currently learning **DSA in C++/JAVA**
 
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT,REACT JS**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT, React JS, Node JS, Express JS, MongoDB, MySQL, Next JS**
 
 - 📫 How to reach me **harshitsachdeva291104@gmail.com**
 
