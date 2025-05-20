@@ -61,40 +61,8 @@
 
 ---
 
-## 🧑‍💼 Featured Projects
 
-- 🎓 **SkillBridge LMS** — Full-featured LMS with payments, media uploads, dashboard  
-  🔗 [Live](https://frontend-lms-ue24.onrender.com/) | [Code](https://github.com/Harshitron/LMS)
 
-- 💬 **Gossip Grove Chat App** — Real-time chat with auth, sockets, private messages  
-  🔗 [Live](https://gossipgrove-chat-app.onrender.com/) | [Code](https://github.com/Harshitron/Mern-ChatApp-GossipGrove)
-
-- 🌐 **GKSAS.com** — Freelance project for a study-abroad platform  
-  🔗 [Live](https://gksas.com/)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshitron&show_icons=true&theme=tokyonight" alt="Harshit's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshitron&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitron&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-## 🏆 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/harshitprosachdeva?theme=light&font=Source%20Code%20Pro&ext=contest" alt="LeetCode Stats" />
-</p>
 
 ---
 
