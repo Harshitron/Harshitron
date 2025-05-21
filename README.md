@@ -16,10 +16,8 @@
 
 - 🎓 B.Tech IT @ **BPIT Delhi** | CGPA: **8.65**
 - 💬 Ask me about **MERN stack**, **DSA**, **Auth**, **REST APIs**, **UI design**
-- 🌱 Learning **System Design**, **TypeScript**, and clean backend architecture
-- 🧠 Solved **400+ DSA problems** across various platforms— [LeetCode](https://leetcode.com/u/harshitprosachdeva/)
+- 🧠 Strong interest in Data Structures and Algorithms.
 - 📫 Reach me at: **harshitsachdeva291104@gmail.com**
-- ⚡ Fun fact: *Built a real-time chat app for friends — now they only message me about bugs 😄*
 
 ---
 
