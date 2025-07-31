@@ -1,5 +1,3 @@
-![logo](https://github.com/harshit-bpit/harshit-bpit/blob/main/log.png)
-
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Harshit+Sachdeva;Full-Stack+MERN+Developer;DSA+%7C+Projects+%7C+Open+Source;B.Tech+IT+Student+@BPIT+Delhi" alt="Typing SVG" />
 </h1>
